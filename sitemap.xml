@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://technicalseo.com</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://technicalseo.com"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://technicalseo.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://technicalseo.com/es/"/>
+  </url>
+  <url>
+    <loc>https://technicalseo.com/url-2</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://technicalseo.com/url-2"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://technicalseo.com/fr/url-2"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://technicalseo.com/es/url-2"/>
+  </url>
+  <url>
+    <loc>https://technicalseo.com/url-3</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://technicalseo.com/url-3"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://technicalseo.com/fr/url-3"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://technicalseo.com/es/url-3"/>
+  </url>
+  <url>
+    <loc>https://technicalseo.com/url-4</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://technicalseo.com/url-4"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://technicalseo.com/fr/url-4"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://technicalseo.com/es/url-4"/>
+  </url>
+  <url>
+    <loc>https://technicalseo.com/url-5</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://technicalseo.com/url-5"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://technicalseo.com/fr/url-5"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://technicalseo.com/es/url-5"/>
+  </url>
+</urlset>
